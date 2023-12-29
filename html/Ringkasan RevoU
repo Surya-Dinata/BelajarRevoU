@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <title>Ringkasan RevoU</title>        
+    </head>
+    <body>
+        <h1> WEEK 1</h1>
+        <h2>DAY 1</h2>
+        <p>1. membuat file html </p>
+            <p>< !DOCTPE html></p>
+            <p>< html ></p>
+                <p>< head></p>
+                    <p>< title> Latihan HTML RevoU 2< /title></p>
+                <p>< /head></p>
+                <p>< body></p>
+                     <p>< h1> Hallo World test 11< /h1></p>
+                <p>< /body></p>
+            <p>< /html></p>
+            
+            <p>Hasil :</p>
+            
+            <!DOCTPE html>
+            <html>
+                <head>
+                    <title> Latihan HTML RevoU 2</title>
+                </head>
+                <body>
+                     <h1> Hallo World test 11</h1>
+                </body>
+            </html>
+            <br>
+        <h1>WEEK 1</h1>
+        <h2>DAY 2</h2> 
+         <h3> 1. Cara membuat tulisan atau memunculkan tulisan di html </h3>
+        <p> > menggunaan fungsi < H1>text< /h1> unutk healding 1, < H2>< /H2> untuk healding 2 dan seterusnya. bisa juga menggunakan fungsi < P>< /P> untuk huruf biasa. Kemudian menggunkana fungsi < br> untuk enter dan < hr> untuk membuat garis pemisah</P>
+        <br>
+        <h1>Ini Healding 1</h1> <p> = </p> <p>< h1> Ini Healding 1< /h1></p>
+        <h2>Ini Healding 2</h2> <p> = </p> <p>< h2> Ini Healding 2< /h2></p>
+        <h3>Ini Healding 3</h3> <p> = </p> <p>< h3> Ini Healding 3< /h3></p>
+        <h4>Ini Healding 4</h4> <p> = </p> <p>< h4> Ini Healding 4< /h4></p>
+        <h5>Ini Healding 5</h5> <p> = </p> <p>< h5> Ini Healding 5< /h5></p>
+        <h6>Ini Healding 6</h6> <p> = </p> <p>< h6> Ini Healding 6< /h6></p>        
+        <br>
+        <p> menggunakna fungsi < br> untuk enter</p>
+        < p> untuk menggunkana fungsi < br> maka perlu seperni ini
+        < br> atau < hr> unutk garis
+        < p>nah seperti ini< /p>
+        <h3>Hasil</h3>
+        <p> untuk menggunkana fungsi < br> maka perlu seperni ini</p>
+        <br>
+        <p>nah seperti ini</p>
+        <br>
+        <p> untuk menggunkana fungsi < br> maka perlu seperni ini</p>
+        <hr>
+        <p>nah seperti ini</p>
+    </body>
+</html>
